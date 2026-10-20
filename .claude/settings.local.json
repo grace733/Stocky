@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm run dev:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm run preview:*)",
+      "PowerShell(npm install:*)",
+      "PowerShell(npm run dev:*)",
+      "PowerShell(npm run build:*)",
+      "PowerShell(npm run preview:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
